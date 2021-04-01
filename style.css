@@ -21,3 +21,11 @@ h5{
     font-size: 30px
 }
 	
+a{
+
+}
+a:hover{ 
+	color: #3BD2E7;
+	box-shadow: 1px 1px 0,5px black;
+
+}
