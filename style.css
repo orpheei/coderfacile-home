@@ -18,7 +18,8 @@ h5{
     border-left: #FFFFFF;
     font-family: 30px;
     text-align: center;
-    font-size: 30px
+    font-size: 30px;
+    line-height:40px;
 }
 	
 a{
