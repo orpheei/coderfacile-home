@@ -13,7 +13,7 @@ h1{ font-family: cursive;
 h5{
     border-width: 0,1px; 
     border-color: black;
-    border: solid;
+    border: ridge;
     border-right: #FFFFFF;
     border-left: #FFFFFF;
     font-family: 30px;
