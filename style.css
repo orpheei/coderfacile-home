@@ -9,7 +9,7 @@ h1{ font-family: cursive;
     font-size: 50px;
     margin-left: 0px;
     box-shadow: 0px 1px 5px #CBCBCB;
-    background-image:url(https://www.google.com/search?q=fond+d%27%C3%A9cran+code&tbm=isch&ved=2ahUKEwjozruX9dzvAhUX8xoKHSskBAsQ2-cCegQIABAA&oq=fond+d%27%C3%A9cran+code&gs_lcp=CgNpbWcQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6BQgAELEDOgQIABBDOgcIABCxAxBDOggIABCxAxCDAVDXKliUX2C2ZGgAcAB4AIABaogBwgiSAQQxNi4xmAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=5aplYKjIKJfma6vIkFg&bih=663&biw=1343&rlz=1C1GCEA_enFR937FR937&hl=fr&safe=active&ssui=on#imgrc=EQbSAAjuqSpjwM)
+   
 }
 h5{
     border-width: 0,1px; 
@@ -21,7 +21,7 @@ h5{
     text-align: center;
     font-size: 30px;
     line-height: 49px;
-    background-color: #A8A8A8;
+    background: #A8A8A8;
 }
 a{ text-decoration: none; 
 	color: #000000;
