@@ -14,8 +14,8 @@ h5{
     border-width: 0,1px; 
     border-color: black;
     border: solid;
-    border-right: none;
-    border-left: none;
+    border-right: #FFFFFF;
+    border-left: #FFFFFF;
     font-family: 30px;
     text-align: center;
     font-size: 30px
