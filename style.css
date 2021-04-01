@@ -22,7 +22,8 @@ h5{
     line-height:40px;
 }
 	
-a{
+a{ text-decoration: none; 
+}
 
 }
 a:hover{ 
