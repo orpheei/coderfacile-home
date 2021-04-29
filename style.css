@@ -31,3 +31,6 @@ a{ text-decoration: none;
 a:hover{ 
 	color: #4F4F4F;
 }
+h2{ 
+	font-family: monospace;
+}
